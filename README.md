@@ -31,6 +31,9 @@ Phan Phúc Trường
 
 - Facebook: https://www.facebook.com/tuenhan3689/
 - YouTube: https://www.youtube.com/@trangnguyenkyvien
+- Zalo: quét mã bên dưới
+
+<img src="images/zalo.png" alt="Danh thiếp Zalo Phan Phúc Trường" width="260">
 
 ## Giấy phép
 
