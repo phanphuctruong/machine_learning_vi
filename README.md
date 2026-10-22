@@ -23,7 +23,9 @@ Các phần B đến H (Hồi quy, Phân loại, Đánh giá và tối ưu, Ense
 
 Tài liệu miễn phí. Nếu thấy hữu ích, bạn có thể mời mình ly cà phê:
 
-- (Thêm mã QR hoặc số tài khoản tại đây)
+Quét mã VietQR (ngân hàng ACB, chủ tài khoản PHAN PHUC TRUONG):
+
+<img src="images/donate-acb.png" alt="Mã QR ủng hộ ACB" width="260">
 
 ## Tác giả và liên hệ
 
