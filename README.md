@@ -17,7 +17,19 @@ Bấm **Mở trên Colab** ở bảng dưới, chạy lần lượt từng ô. K
 | A5 | Quy trình 5 bước | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/A-nen-tang/A5_five_step_workflow.ipynb) · [Xem trên GitHub](A-nen-tang/A5_five_step_workflow.ipynb) |
 | A6 | Bản đồ các loại bài toán | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/A-nen-tang/A6_map_of_problem_types.ipynb) · [Xem trên GitHub](A-nen-tang/A6_map_of_problem_types.ipynb) |
 
-Các phần B đến H (Hồi quy, Phân loại, Đánh giá và tối ưu, Ensemble, Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
+## Phần B: Hồi quy
+
+| Buổi | Nội dung | Mở |
+|---|---|---|
+| B1 | Hồi quy tuyến tính đơn biến | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B1_simple_linear_regression.ipynb) · [Xem trên GitHub](B-hoi-quy/B1_simple_linear_regression.ipynb) |
+| B2 | Đo sai số: MAE, RMSE, R² | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B2_error_metrics.ipynb) · [Xem trên GitHub](B-hoi-quy/B2_error_metrics.ipynb) |
+| B3 | Hồi quy nhiều biến | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B3_multiple_linear_regression.ipynb) · [Xem trên GitHub](B-hoi-quy/B3_multiple_linear_regression.ipynb) |
+| B4 | Chế biến dữ liệu: chuẩn hóa, cột chữ, ô trống | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B4_feature_preprocessing.ipynb) · [Xem trên GitHub](B-hoi-quy/B4_feature_preprocessing.ipynb) |
+| B5 | Đường cong và quá khớp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B5_polynomial_and_overfitting.ipynb) · [Xem trên GitHub](B-hoi-quy/B5_polynomial_and_overfitting.ipynb) |
+| B6 | Ridge và Lasso | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B6_ridge_and_lasso.ipynb) · [Xem trên GitHub](B-hoi-quy/B6_ridge_and_lasso.ipynb) |
+| B7 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B7_regression_capstone.ipynb) · [Xem trên GitHub](B-hoi-quy/B7_regression_capstone.ipynb) |
+
+Các phần C đến H (Phân loại, Đánh giá và tối ưu, Ensemble, Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
 
 ## Ủng hộ
 
