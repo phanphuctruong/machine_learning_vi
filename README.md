@@ -29,7 +29,21 @@ Bấm **Mở trên Colab** ở bảng dưới, chạy lần lượt từng ô. K
 | B6 | Ridge và Lasso | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B6_ridge_and_lasso.ipynb) · [Xem trên GitHub](B-hoi-quy/B6_ridge_and_lasso.ipynb) |
 | B7 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/B-hoi-quy/B7_regression_capstone.ipynb) · [Xem trên GitHub](B-hoi-quy/B7_regression_capstone.ipynb) |
 
-Các phần C đến H (Phân loại, Đánh giá và tối ưu, Ensemble, Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
+## Phần C: Phân loại
+
+| Buổi | Nội dung | Mở |
+|---|---|---|
+| C1 | Hồi quy logistic | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C1_logistic_regression.ipynb) · [Xem trên GitHub](C-phan-loai/C1_logistic_regression.ipynb) |
+| C2 | Đo chất lượng phân loại: precision, recall, ROC | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C2_classification_metrics.ipynb) · [Xem trên GitHub](C-phan-loai/C2_classification_metrics.ipynb) |
+| C3 | k láng giềng gần nhất (k-NN) | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C3_k_nearest_neighbors.ipynb) · [Xem trên GitHub](C-phan-loai/C3_k_nearest_neighbors.ipynb) |
+| C4 | Naive Bayes | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C4_naive_bayes.ipynb) · [Xem trên GitHub](C-phan-loai/C4_naive_bayes.ipynb) |
+| C5 | Cây quyết định | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C5_decision_tree.ipynb) · [Xem trên GitHub](C-phan-loai/C5_decision_tree.ipynb) |
+| C6 | Máy vectơ hỗ trợ (SVM) | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C6_support_vector_machine.ipynb) · [Xem trên GitHub](C-phan-loai/C6_support_vector_machine.ipynb) |
+| C7 | Phân loại nhiều nhóm: chữ số viết tay | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C7_multiclass_digits.ipynb) · [Xem trên GitHub](C-phan-loai/C7_multiclass_digits.ipynb) |
+| C8 | Dữ liệu lệch nhóm | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C8_imbalanced_data.ipynb) · [Xem trên GitHub](C-phan-loai/C8_imbalanced_data.ipynb) |
+| C9 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C9_classification_capstone.ipynb) · [Xem trên GitHub](C-phan-loai/C9_classification_capstone.ipynb) |
+
+Các phần D đến H (Đánh giá và tối ưu, Ensemble, Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
 
 ## Ủng hộ
 
