@@ -67,7 +67,18 @@ Bấm **Mở trên Colab** ở bảng dưới, chạy lần lượt từng ô. K
 | E6 | Biến nào thật sự quan trọng: hoán vị | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E6_permutation_importance.ipynb) · [Xem trên GitHub](E-ensemble/E6_permutation_importance.ipynb) |
 | E7 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E7_ensemble_capstone.ipynb) · [Xem trên GitHub](E-ensemble/E7_ensemble_capstone.ipynb) |
 
-Các phần F đến H (Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
+## Phần F: Không giám sát
+
+| Buổi | Nội dung | Mở |
+|---|---|---|
+| F1 | K-Means: chia khách thành nhóm | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/F-khong-giam-sat/F1_kmeans_clustering.ipynb) · [Xem trên GitHub](F-khong-giam-sat/F1_kmeans_clustering.ipynb) |
+| F2 | DBSCAN và gom nhóm phân cấp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/F-khong-giam-sat/F2_dbscan_and_hierarchical.ipynb) · [Xem trên GitHub](F-khong-giam-sat/F2_dbscan_and_hierarchical.ipynb) |
+| F3 | Gaussian Mixture: xác suất thuộc nhóm | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/F-khong-giam-sat/F3_gaussian_mixture.ipynb) · [Xem trên GitHub](F-khong-giam-sat/F3_gaussian_mixture.ipynb) |
+| F4 | PCA: nén nhiều cột thành vài cột | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/F-khong-giam-sat/F4_pca.ipynb) · [Xem trên GitHub](F-khong-giam-sat/F4_pca.ipynb) |
+| F5 | t-SNE: vẽ bản đồ 2D | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/F-khong-giam-sat/F5_tsne.ipynb) · [Xem trên GitHub](F-khong-giam-sat/F5_tsne.ipynb) |
+| F6 | Phát hiện bất thường | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/F-khong-giam-sat/F6_anomaly_detection.ipynb) · [Xem trên GitHub](F-khong-giam-sat/F6_anomaly_detection.ipynb) |
+
+Các phần G đến H (Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
 
 ## Ủng hộ
 
