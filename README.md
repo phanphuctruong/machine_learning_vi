@@ -43,7 +43,19 @@ Bấm **Mở trên Colab** ở bảng dưới, chạy lần lượt từng ô. K
 | C8 | Dữ liệu lệch nhóm | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C8_imbalanced_data.ipynb) · [Xem trên GitHub](C-phan-loai/C8_imbalanced_data.ipynb) |
 | C9 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/C-phan-loai/C9_classification_capstone.ipynb) · [Xem trên GitHub](C-phan-loai/C9_classification_capstone.ipynb) |
 
-Các phần D đến H (Đánh giá và tối ưu, Ensemble, Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
+## Phần D: Đánh giá và tối ưu
+
+| Buổi | Nội dung | Mở |
+|---|---|---|
+| D1 | Kiểm định chéo cho ra lẽ | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D1_cross_validation.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D1_cross_validation.ipynb) |
+| D2 | Đọc bệnh của mô hình bằng đường cong | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D2_learning_and_validation_curves.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D2_learning_and_validation_curves.ipynb) |
+| D3 | Pipeline và rò rỉ dữ liệu | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D3_pipelines_and_leakage.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D3_pipelines_and_leakage.ipynb) |
+| D4 | Tìm núm vặn tốt nhất mà không tự lừa mình | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D4_hyperparameter_search.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D4_hyperparameter_search.ipynb) |
+| D5 | Xác suất có đáng tin không: hiệu chỉnh | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D5_probability_calibration.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D5_probability_calibration.ipynb) |
+| D6 | Chia theo nhóm và theo thời gian | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D6_group_and_time_splits.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D6_group_and_time_splits.ipynb) |
+| D7 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D7_evaluation_capstone.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D7_evaluation_capstone.ipynb) |
+
+Các phần E đến H (Ensemble, Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
 
 ## Ủng hộ
 
