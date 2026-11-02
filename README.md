@@ -55,7 +55,19 @@ Bấm **Mở trên Colab** ở bảng dưới, chạy lần lượt từng ô. K
 | D6 | Chia theo nhóm và theo thời gian | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D6_group_and_time_splits.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D6_group_and_time_splits.ipynb) |
 | D7 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/D-danh-gia-toi-uu/D7_evaluation_capstone.ipynb) · [Xem trên GitHub](D-danh-gia-toi-uu/D7_evaluation_capstone.ipynb) |
 
-Các phần E đến H (Ensemble, Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
+## Phần E: Ensemble
+
+| Buổi | Nội dung | Mở |
+|---|---|---|
+| E1 | Gộp nhiều cây: bagging | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E1_bagging.ipynb) · [Xem trên GitHub](E-ensemble/E1_bagging.ipynb) |
+| E2 | Rừng ngẫu nhiên | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E2_random_forest.ipynb) · [Xem trên GitHub](E-ensemble/E2_random_forest.ipynb) |
+| E3 | Boosting làm bằng tay | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E3_boosting_by_hand.ipynb) · [Xem trên GitHub](E-ensemble/E3_boosting_by_hand.ipynb) |
+| E4 | Boosting nhanh: HistGradientBoosting | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E4_hist_gradient_boosting.ipynb) · [Xem trên GitHub](E-ensemble/E4_hist_gradient_boosting.ipynb) |
+| E5 | Bỏ phiếu và xếp chồng mô hình | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E5_voting_and_stacking.ipynb) · [Xem trên GitHub](E-ensemble/E5_voting_and_stacking.ipynb) |
+| E6 | Biến nào thật sự quan trọng: hoán vị | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E6_permutation_importance.ipynb) · [Xem trên GitHub](E-ensemble/E6_permutation_importance.ipynb) |
+| E7 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/E-ensemble/E7_ensemble_capstone.ipynb) · [Xem trên GitHub](E-ensemble/E7_ensemble_capstone.ipynb) |
+
+Các phần F đến H (Không giám sát, Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
 
 ## Ủng hộ
 
