@@ -78,7 +78,19 @@ Bấm **Mở trên Colab** ở bảng dưới, chạy lần lượt từng ô. K
 | F5 | t-SNE: vẽ bản đồ 2D | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/F-khong-giam-sat/F5_tsne.ipynb) · [Xem trên GitHub](F-khong-giam-sat/F5_tsne.ipynb) |
 | F6 | Phát hiện bất thường | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/F-khong-giam-sat/F6_anomaly_detection.ipynb) · [Xem trên GitHub](F-khong-giam-sat/F6_anomaly_detection.ipynb) |
 
-Các phần G đến H (Nâng cao, Triển khai và dự án) sẽ được bổ sung dần.
+## Phần G: Nâng cao
+
+| Buổi | Nội dung | Mở |
+|---|---|---|
+| G1 | Mạng nơ-ron: xếp nhiều hồi quy logistic | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G1_neural_network_basics.ipynb) · [Xem trên GitHub](G-nang-cao/G1_neural_network_basics.ipynb) |
+| G2 | Huấn luyện mạng nơ-ron đúng cách | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G2_training_neural_networks.ipynb) · [Xem trên GitHub](G-nang-cao/G2_training_neural_networks.ipynb) |
+| G3 | Chọn cột, bỏ cột thừa | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G3_feature_selection.ipynb) · [Xem trên GitHub](G-nang-cao/G3_feature_selection.ipynb) |
+| G4 | Tạo cột mới | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G4_feature_engineering.ipynb) · [Xem trên GitHub](G-nang-cao/G4_feature_engineering.ipynb) |
+| G5 | Khoảng dự đoán | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G5_prediction_intervals.ipynb) · [Xem trên GitHub](G-nang-cao/G5_prediction_intervals.ipynb) |
+| G6 | Học khi ít nhãn | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G6_semi_supervised_learning.ipynb) · [Xem trên GitHub](G-nang-cao/G6_semi_supervised_learning.ipynb) |
+| G7 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G7_advanced_capstone.ipynb) · [Xem trên GitHub](G-nang-cao/G7_advanced_capstone.ipynb) |
+
+Phần H (Triển khai và dự án) sẽ được bổ sung dần.
 
 ## Ủng hộ
 
