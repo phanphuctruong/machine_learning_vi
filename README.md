@@ -90,7 +90,15 @@ Bấm **Mở trên Colab** ở bảng dưới, chạy lần lượt từng ô. K
 | G6 | Học khi ít nhãn | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G6_semi_supervised_learning.ipynb) · [Xem trên GitHub](G-nang-cao/G6_semi_supervised_learning.ipynb) |
 | G7 | Thực hành tổng hợp | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/G-nang-cao/G7_advanced_capstone.ipynb) · [Xem trên GitHub](G-nang-cao/G7_advanced_capstone.ipynb) |
 
-Phần H (Triển khai và dự án) sẽ được bổ sung dần.
+## Phần H: Triển khai và dự án
+
+| Buổi | Nội dung | Mở |
+|---|---|---|
+| H1 | Lưu và nạp mô hình an toàn | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/H-trien-khai-du-an/H1_saving_and_loading_models.ipynb) · [Xem trên GitHub](H-trien-khai-du-an/H1_saving_and_loading_models.ipynb) |
+| H2 | Hàm dự đoán an toàn | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/H-trien-khai-du-an/H2_safe_prediction_function.ipynb) · [Xem trên GitHub](H-trien-khai-du-an/H2_safe_prediction_function.ipynb) |
+| H3 | Giám sát khi dữ liệu đổi | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/H-trien-khai-du-an/H3_monitoring_data_drift.ipynb) · [Xem trên GitHub](H-trien-khai-du-an/H3_monitoring_data_drift.ipynb) |
+| H4 | Thẻ mô hình và báo cáo trung thực | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/H-trien-khai-du-an/H4_model_card_honest_report.ipynb) · [Xem trên GitHub](H-trien-khai-du-an/H4_model_card_honest_report.ipynb) |
+| H5 | Dự án tổng kết | [Mở trên Colab](https://colab.research.google.com/github/phanphuctruong/machine_learning_vi/blob/main/H-trien-khai-du-an/H5_capstone_project.ipynb) · [Xem trên GitHub](H-trien-khai-du-an/H5_capstone_project.ipynb) |
 
 ## Ủng hộ
 
